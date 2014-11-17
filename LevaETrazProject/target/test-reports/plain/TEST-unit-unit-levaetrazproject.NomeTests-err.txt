@@ -1,0 +1,2 @@
+--Output from test igualdade de nomes--
+--Output from test nome invalido--

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" name="levaetrazproject.LocalTests" tests="1" time="0.336" timestamp="2014-11-17T14:04:01">
+  <properties />
+  <testcase classname="levaetrazproject.LocalTests" name="test igualdade de locais" time="0.331" />
+  <system-out><![CDATA[--Output from test igualdade de locais--
+]]></system-out>
+  <system-err><![CDATA[--Output from test igualdade de locais--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,3 @@
+--Output from test constraints--
+--Output from test igualdade de rotas--
+--Output from test uma rota criada corretamente--

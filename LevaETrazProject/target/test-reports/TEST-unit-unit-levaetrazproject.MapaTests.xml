@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" name="levaetrazproject.MapaTests" tests="1" time="0.011" timestamp="2014-11-17T14:04:01">
+  <properties />
+  <testcase classname="levaetrazproject.MapaTests" name="test igualdade de mapas" time="0.011" />
+  <system-out><![CDATA[--Output from test igualdade de mapas--
+]]></system-out>
+  <system-err><![CDATA[--Output from test igualdade de mapas--
+]]></system-err>
+</testsuite>
