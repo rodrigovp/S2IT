@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" name="levaetrazproject.AutonomiaTests" tests="3" time="0.387" timestamp="2014-11-17T20:31:09">
+  <properties />
+  <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 20 quilometros" time="0.364" />
+  <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 10 quilometros" time="0.009" />
+  <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 0 quiiometro" time="0.009" />
+  <system-out><![CDATA[--Output from test calcular quantidade de litros para viagem de 20 quilometros--
+--Output from test calcular quantidade de litros para viagem de 10 quilometros--
+--Output from test calcular quantidade de litros para viagem de 0 quiiometro--
+]]></system-out>
+  <system-err><![CDATA[--Output from test calcular quantidade de litros para viagem de 20 quilometros--
+--Output from test calcular quantidade de litros para viagem de 10 quilometros--
+--Output from test calcular quantidade de litros para viagem de 0 quiiometro--
+]]></system-err>
+</testsuite>

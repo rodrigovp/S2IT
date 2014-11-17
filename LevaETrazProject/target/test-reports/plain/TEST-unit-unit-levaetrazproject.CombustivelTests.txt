@@ -1,0 +1,16 @@
+Testsuite: levaetrazproject.CombustivelTests
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0,027 sec
+------------- Standard Output ---------------
+--Output from test calcular valor da compra de zero litros--
+--Output from test calcular valor da compra de um litro--
+--Output from test calcular valor da compra de dois litros--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test calcular valor da compra de zero litros--
+--Output from test calcular valor da compra de um litro--
+--Output from test calcular valor da compra de dois litros--
+------------- ---------------- ---------------
+
+Testcase: test calcular valor da compra de zero litros took 0,007 sec
+Testcase: test calcular valor da compra de um litro took 0,01 sec
+Testcase: test calcular valor da compra de dois litros took 0,01 sec

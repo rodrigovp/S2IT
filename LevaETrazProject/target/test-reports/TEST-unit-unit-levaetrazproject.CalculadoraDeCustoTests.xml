@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" name="levaetrazproject.CalculadoraDeCustoTests" tests="1" time="0.045" timestamp="2014-11-17T20:31:09">
+  <properties />
+  <testcase classname="levaetrazproject.CalculadoraDeCustoTests" name="test calcular custo" time="0.045" />
+  <system-out><![CDATA[--Output from test calcular custo--
+]]></system-out>
+  <system-err><![CDATA[--Output from test calcular custo--
+]]></system-err>
+</testsuite>

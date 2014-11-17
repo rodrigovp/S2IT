@@ -1,0 +1,10 @@
+Testsuite: levaetrazproject.CalculadoraDeCustoTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,045 sec
+------------- Standard Output ---------------
+--Output from test calcular custo--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test calcular custo--
+------------- ---------------- ---------------
+
+Testcase: test calcular custo took 0,045 sec
