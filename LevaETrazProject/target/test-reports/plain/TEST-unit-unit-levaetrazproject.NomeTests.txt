@@ -1,5 +1,5 @@
 Testsuite: levaetrazproject.NomeTests
-Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,962 sec
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,038 sec
 ------------- Standard Output ---------------
 --Output from test igualdade de nomes--
 --Output from test nome invalido--
@@ -9,5 +9,5 @@ Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0,962 sec
 --Output from test nome invalido--
 ------------- ---------------- ---------------
 
-Testcase: test igualdade de nomes took 0,012 sec
-Testcase: test nome invalido took 0,949 sec
+Testcase: test igualdade de nomes took 0,013 sec
+Testcase: test nome invalido took 0,021 sec

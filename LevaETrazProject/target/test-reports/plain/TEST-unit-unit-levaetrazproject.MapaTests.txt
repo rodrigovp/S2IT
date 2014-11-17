@@ -1,10 +1,10 @@
 Testsuite: levaetrazproject.MapaTests
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,011 sec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,738 sec
 ------------- Standard Output ---------------
---Output from test igualdade de mapas--
+--Output from test constraints--
 ------------- ---------------- ---------------
 ------------- Standard Error -----------------
---Output from test igualdade de mapas--
+--Output from test constraints--
 ------------- ---------------- ---------------
 
-Testcase: test igualdade de mapas took 0,011 sec
+Testcase: test constraints took 0,737 sec

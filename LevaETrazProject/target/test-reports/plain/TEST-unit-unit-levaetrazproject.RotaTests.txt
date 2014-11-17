@@ -1,5 +1,5 @@
 Testsuite: levaetrazproject.RotaTests
-Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0,185 sec
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0,142 sec
 ------------- Standard Output ---------------
 --Output from test constraints--
 --Output from test igualdade de rotas--
@@ -11,6 +11,6 @@ Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0,185 sec
 --Output from test uma rota criada corretamente--
 ------------- ---------------- ---------------
 
-Testcase: test constraints took 0,153 sec
-Testcase: test igualdade de rotas took 0,011 sec
-Testcase: test uma rota criada corretamente took 0,019 sec
+Testcase: test constraints took 0,106 sec
+Testcase: test igualdade de rotas took 0,014 sec
+Testcase: test uma rota criada corretamente took 0,021 sec

@@ -1,5 +1,5 @@
 Testsuite: levaetrazproject.LocalTests
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,336 sec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,024 sec
 ------------- Standard Output ---------------
 --Output from test igualdade de locais--
 ------------- ---------------- ---------------
@@ -7,4 +7,4 @@ Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0,336 sec
 --Output from test igualdade de locais--
 ------------- ---------------- ---------------
 
-Testcase: test igualdade de locais took 0,331 sec
+Testcase: test igualdade de locais took 0,024 sec
