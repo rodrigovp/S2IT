@@ -1,3 +1,0 @@
---Output from test calcular valor da compra de zero litros--
---Output from test calcular valor da compra de um litro--
---Output from test calcular valor da compra de dois litros--

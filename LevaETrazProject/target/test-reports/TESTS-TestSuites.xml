@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="0" name="AutonomiaTests" package="levaetrazproject" tests="3" time="0.387" timestamp="2014-11-17T20:31:09">
+  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="0" name="AutonomiaTests" package="levaetrazproject" tests="3" time="0.48" timestamp="2014-11-17T20:53:16">
       <properties />
 
-      <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 20 quilometros" time="0.364" />
+      <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 20 quilometros" time="0.447" />
 
-      <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 10 quilometros" time="0.009" />
+      <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 10 quilometros" time="0.011" />
 
-      <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 0 quiiometro" time="0.009" />
+      <testcase classname="levaetrazproject.AutonomiaTests" name="test calcular quantidade de litros para viagem de 0 quiiometro" time="0.016" />
 
       <system-out><![CDATA[--Output from test calcular quantidade de litros para viagem de 20 quilometros--
 --Output from test calcular quantidade de litros para viagem de 10 quilometros--
@@ -17,118 +17,6 @@
       <system-err><![CDATA[--Output from test calcular quantidade de litros para viagem de 20 quilometros--
 --Output from test calcular quantidade de litros para viagem de 10 quilometros--
 --Output from test calcular quantidade de litros para viagem de 0 quiiometro--
-]]></system-err>
-
-  </testsuite>
-  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="1" name="CalculadoraDeCustoTests" package="levaetrazproject" tests="1" time="0.045" timestamp="2014-11-17T20:31:09">
-      <properties />
-
-      <testcase classname="levaetrazproject.CalculadoraDeCustoTests" name="test calcular custo" time="0.045" />
-
-      <system-out><![CDATA[--Output from test calcular custo--
-]]></system-out>
-
-      <system-err><![CDATA[--Output from test calcular custo--
-]]></system-err>
-
-  </testsuite>
-  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="2" name="CaminhoTests" package="levaetrazproject" tests="3" time="0.039" timestamp="2014-11-17T20:31:09">
-      <properties />
-
-      <testcase classname="levaetrazproject.CaminhoTests" name="test calcular extensao de caminho com duas rotas" time="0.015" />
-
-      <testcase classname="levaetrazproject.CaminhoTests" name="test calcular extensao de caminho com uma rota" time="0.012" />
-
-      <testcase classname="levaetrazproject.CaminhoTests" name="test calcular extensao de caminho sem rotas" time="0.01" />
-
-      <system-out><![CDATA[--Output from test calcular extensao de caminho com duas rotas--
---Output from test calcular extensao de caminho com uma rota--
---Output from test calcular extensao de caminho sem rotas--
-]]></system-out>
-
-      <system-err><![CDATA[--Output from test calcular extensao de caminho com duas rotas--
---Output from test calcular extensao de caminho com uma rota--
---Output from test calcular extensao de caminho sem rotas--
-]]></system-err>
-
-  </testsuite>
-  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="3" name="CombustivelTests" package="levaetrazproject" tests="3" time="0.027" timestamp="2014-11-17T20:31:09">
-      <properties />
-
-      <testcase classname="levaetrazproject.CombustivelTests" name="test calcular valor da compra de zero litros" time="0.007" />
-
-      <testcase classname="levaetrazproject.CombustivelTests" name="test calcular valor da compra de um litro" time="0.01" />
-
-      <testcase classname="levaetrazproject.CombustivelTests" name="test calcular valor da compra de dois litros" time="0.01" />
-
-      <system-out><![CDATA[--Output from test calcular valor da compra de zero litros--
---Output from test calcular valor da compra de um litro--
---Output from test calcular valor da compra de dois litros--
-]]></system-out>
-
-      <system-err><![CDATA[--Output from test calcular valor da compra de zero litros--
---Output from test calcular valor da compra de um litro--
---Output from test calcular valor da compra de dois litros--
-]]></system-err>
-
-  </testsuite>
-  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="4" name="LocalTests" package="levaetrazproject" tests="1" time="0.024" timestamp="2014-11-17T20:31:10">
-      <properties />
-
-      <testcase classname="levaetrazproject.LocalTests" name="test igualdade de locais" time="0.024" />
-
-      <system-out><![CDATA[--Output from test igualdade de locais--
-]]></system-out>
-
-      <system-err><![CDATA[--Output from test igualdade de locais--
-]]></system-err>
-
-  </testsuite>
-  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="5" name="MapaTests" package="levaetrazproject" tests="1" time="0.738" timestamp="2014-11-17T20:31:10">
-      <properties />
-
-      <testcase classname="levaetrazproject.MapaTests" name="test constraints" time="0.737" />
-
-      <system-out><![CDATA[--Output from test constraints--
-]]></system-out>
-
-      <system-err><![CDATA[--Output from test constraints--
-]]></system-err>
-
-  </testsuite>
-  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="6" name="NomeTests" package="levaetrazproject" tests="2" time="0.038" timestamp="2014-11-17T20:31:10">
-      <properties />
-
-      <testcase classname="levaetrazproject.NomeTests" name="test igualdade de nomes" time="0.013" />
-
-      <testcase classname="levaetrazproject.NomeTests" name="test nome invalido" time="0.021" />
-
-      <system-out><![CDATA[--Output from test igualdade de nomes--
---Output from test nome invalido--
-]]></system-out>
-
-      <system-err><![CDATA[--Output from test igualdade de nomes--
---Output from test nome invalido--
-]]></system-err>
-
-  </testsuite>
-  <testsuite errors="0" failures="0" hostname="MacBook-Pro-de-rodrigo.local" id="7" name="RotaTests" package="levaetrazproject" tests="3" time="0.142" timestamp="2014-11-17T20:31:10">
-      <properties />
-
-      <testcase classname="levaetrazproject.RotaTests" name="test constraints" time="0.106" />
-
-      <testcase classname="levaetrazproject.RotaTests" name="test igualdade de rotas" time="0.014" />
-
-      <testcase classname="levaetrazproject.RotaTests" name="test uma rota criada corretamente" time="0.021" />
-
-      <system-out><![CDATA[--Output from test constraints--
---Output from test igualdade de rotas--
---Output from test uma rota criada corretamente--
-]]></system-out>
-
-      <system-err><![CDATA[--Output from test constraints--
---Output from test igualdade de rotas--
---Output from test uma rota criada corretamente--
 ]]></system-err>
 
   </testsuite>

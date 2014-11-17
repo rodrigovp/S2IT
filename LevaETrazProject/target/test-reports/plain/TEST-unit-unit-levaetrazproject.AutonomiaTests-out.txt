@@ -1,3 +1,0 @@
---Output from test calcular quantidade de litros para viagem de 20 quilometros--
---Output from test calcular quantidade de litros para viagem de 10 quilometros--
---Output from test calcular quantidade de litros para viagem de 0 quiiometro--

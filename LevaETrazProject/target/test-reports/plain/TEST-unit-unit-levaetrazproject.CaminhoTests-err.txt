@@ -1,3 +1,0 @@
---Output from test calcular extensao de caminho com duas rotas--
---Output from test calcular extensao de caminho com uma rota--
---Output from test calcular extensao de caminho sem rotas--
