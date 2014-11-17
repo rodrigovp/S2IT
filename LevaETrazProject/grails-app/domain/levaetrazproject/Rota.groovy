@@ -4,13 +4,17 @@ class Rota {
 
 	Local origem
 	Local destino
-	Integer distancia
+	Integer extensao
 	
     static constraints = {
 		origem(nullable:false, unique:true, validator: {val, obj -> !val.equals(obj.destino)})
 		destino(nullable:false, unique:true, validator: {val, obj -> !val.equals(obj.origem)})
-		distancia(nullable:false, min:1)
+		extensao(nullable:false, min:1)
     }
+	
+	Integer lerExtensao(){
+		extensao
+	}
 	
 	@Override
 	def boolean equals(obj){
