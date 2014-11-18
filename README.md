@@ -9,7 +9,7 @@ https://code.google.com/p/projeto-algoritmos-em-grafos-java/
 
 O código foi obtido e, com o maven, foi gerado um jar com a biblioteca.
 
-Em seguida, parti para a criação dos serviços de:
+Em seguida, partiu-se para a criação dos serviços de:
 
  * carregamento de mapas;
  * geração do caminho mínimo;
