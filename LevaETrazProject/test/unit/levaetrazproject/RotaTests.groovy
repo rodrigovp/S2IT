@@ -5,8 +5,8 @@ import grails.test.GrailsUnitTestCase
 
 class RotaTests extends GrailsUnitTestCase {
 
-	Local origem = new Local(nome:new Nome(nome:"Araraquara"))
-	Local destino = new Local(nome:new Nome(nome:"São Carlos"))
+	Local origem = new Local(nome: "Araraquara")
+	Local destino = new Local(nome: "São Carlos")
 	
     void "test igualdade de rotas"() {
 		Integer extensao = 10

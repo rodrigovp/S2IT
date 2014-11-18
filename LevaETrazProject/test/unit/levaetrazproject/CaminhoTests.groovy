@@ -4,8 +4,8 @@ import grails.test.GrailsUnitTestCase
 
 class CaminhoTests extends GrailsUnitTestCase{
 
-	Local origem = new Local(nome:new Nome(nome:"Araraquara"))
-	Local destino = new Local(nome:new Nome(nome:"São Carlos"))
+	Local origem = new Local(nome:"Araraquara")
+	Local destino = new Local(nome:"São Carlos")
 	Rota umaRota = new Rota(origem:origem, destino:destino, extensao:10)
 	
 	def caminho

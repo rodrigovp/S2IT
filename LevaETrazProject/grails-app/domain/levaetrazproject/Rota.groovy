@@ -1,5 +1,6 @@
 package levaetrazproject
 
+
 class Rota {
 
 	Local origem
@@ -22,6 +23,17 @@ class Rota {
 		if(obj instanceof Rota){
 			def outra = (Rota)obj
 			ret = origem.equals(outra.origem) && destino.equals(outra.destino)
+		}
+		ret
+	}
+	
+	Local lerVizinhoDo(Local local){
+		Local ret = null
+		if(origem.equals(local)){
+			ret = destino
+		}
+		else if (destino.equals(local)){
+			ret = origem
 		}
 		ret
 	}

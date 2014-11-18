@@ -10,9 +10,9 @@ class CalculadoraDeCustoTests extends GrailsUnitTestCase{
 	
 	//TODO: poderia-se mockar as rotas, facilitando a construção do teste
 	void "test calcular custo"(){
-		Local primeiroLocal = new Local(nome: new Nome(nome: "Araraquara"))
-		Local segundoLocal = new Local(nome: new Nome(nome: "São Carlos"))
-		Local terceiroLocal = new Local(nome: new Nome(nome: "São Paulo"))
+		Local primeiroLocal = new Local(nome: "Araraquara")
+		Local segundoLocal = new Local(nome: "São Carlos")
+		Local terceiroLocal = new Local(nome: "São Paulo")
 		Rota umaRota = new Rota(origem: primeiroLocal, destino: segundoLocal, extensao: 10)
 		Rota outraRota = new Rota(origem: segundoLocal, destino: terceiroLocal, extensao: 10)
 		
