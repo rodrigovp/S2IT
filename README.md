@@ -1,4 +1,4 @@
-S2IT
+Dijkstra-web-groovy
 ====
 
 Repositório para armazenar o teste realizado para a S2 IT
